@@ -1,0 +1,2 @@
+Application started at location \\.\pipe\e0b808fe-efc0-4cdf-88c8-4fd87b64970b
+A new request arrived with HTTP headers: {"connection":"keep-alive","accept":"text/html, application/xhtml+xml, */*","accept-encoding":"gzip, deflate","accept-language":"zh-CN","host":"localhost","referer":"http://localhost/node/configuration/readme.htm","user-agent":"Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0) like Gecko"}
